@@ -1,0 +1,27 @@
+.search{
+    width: 300%;
+     height: 60px;
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+     
+}
+
+.ipt{
+     width: 150%;
+     height: 100px;
+    
+     position: relative;
+     bottom: 40px;
+      padding-left: 20px;
+      background-color: silver;
+}
+h1{
+    position: relative;
+    
+    bottom: 25px;
+    left: 300px;
+    
+   
+}

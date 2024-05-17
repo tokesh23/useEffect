@@ -1,0 +1,58 @@
+body {
+    background-color: silver;
+    width: 100%;
+
+
+}
+ 
+.container{
+    width: 100%;
+    height: 100vh;
+}
+
+.div1 {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 450px;
+    width: 320px;
+    font-size: 1vw;
+    background-color: goldenrod;
+    position: relative;
+    left: 500px;
+    overflow: hidden;
+    top: 30px;
+}
+
+.img{
+
+    display: flex;
+    justify-content: center;
+ 
+    height: 10vw;
+    width: 10vw;
+    padding-left: 80px;
+    padding-top: 30px;
+
+}
+
+.title {
+    font-size: 15px;
+    color: red;
+    margin-left: 10px;
+
+}
+
+.price {
+    font-size: 20px;
+    color: blue;
+    margin-left: 10px;
+}
+
+.description {
+    font-size: 13px;
+    color: black;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    
+}

@@ -1,0 +1,19 @@
+ .App1 {border: 1px solid black;
+  height: 100%;
+  width: 953px;
+  background-color: #fff;
+  border-color: rgb(0, 0, 255);
+ 
+   
+   
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px;
+   position: relative;
+   left: 180px;
+   top: 50px;
+    margin-left: 70px; 
+   
+  row-gap: 25px;
+   
+ }
+ 
